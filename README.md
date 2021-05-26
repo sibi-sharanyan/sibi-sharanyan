@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 for a US-based startup operating in the digital marketing space. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 for a US-based tech startup operating in the digital marketing space. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
 
 ### 🌟 Technologies I've worked with:
 
