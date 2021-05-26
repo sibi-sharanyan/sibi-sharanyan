@@ -1,6 +1,6 @@
 # Hello! 👋💻🔥
 
-I am _Sibi Sharanayn_. I'm working remotely as a Full Stack developer for a US-based startup operating in the digital marketing space. I'm highly skilled with _JavaScript/TypeScript_ and all its associated runtimes. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern technologies that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+I am _Sibi Sharanayn_. I'm working remotely as a **Full Stack Developer** for a US-based startup operating in the digital marketing space. I'm highly skilled with **JavaScript/TypeScript** and all its associated runtimes. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern technologies that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
 
 ### 🌟 Technologies I've worked with:
 
@@ -9,6 +9,8 @@ I am _Sibi Sharanayn_. I'm working remotely as a Full Stack developer for a US-b
 - Vue
 - MongoDB
 - Firestore
+
+<br/>
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -31,6 +33,8 @@ I am _Sibi Sharanayn_. I'm working remotely as a Full Stack developer for a US-b
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
+
+<br/>
 
 ### 🎊 Few of my awesome projects:
 
