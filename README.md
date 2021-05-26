@@ -10,23 +10,6 @@ I am _Sibi Sharanayn_. I'm working remotely as a Full Stack developer for a US-b
 - MongoDB
 - Firestore
 
-### 🎊 Few of my awesome projects:
-
-- Web app to test your typing speed [(link)](https://typingtest.netlify.app/)
-- Online IDE to write and execute code [(link)](https://ideonline.netlify.app/)
-- Drag and Drop based web game [(link)](https://tangled.netlify.app/)
-- Windows application to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
-
-... And a lot more abandoned projects 😅😅
-
-### 📫 How to reach me?
-
-- [LinkedIn](https://www.linkedin.com/in/sibi-sharanyan/)
-- [Twitter](https://twitter.com/sibi_sharanyan)
-- [Hashnode](https://sibi-sharanyan.hashnode.dev/)
-
-### 🔥 Languages and Tools:
-
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a>
@@ -48,3 +31,18 @@ I am _Sibi Sharanayn_. I'm working remotely as a Full Stack developer for a US-b
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
+
+### 🎊 Few of my awesome projects:
+
+- Web app to test your typing speed [(link)](https://typingtest.netlify.app/)
+- Online IDE to write and execute code [(link)](https://ideonline.netlify.app/)
+- Drag and Drop based web game [(link)](https://tangled.netlify.app/)
+- Windows application to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
+
+... And a lot more abandoned projects 😅😅
+
+### 📫 How to reach me?
+
+- [LinkedIn](https://www.linkedin.com/in/sibi-sharanyan/)
+- [Twitter](https://twitter.com/sibi_sharanyan)
+- [Hashnode](https://sibi-sharanyan.hashnode.dev/)
