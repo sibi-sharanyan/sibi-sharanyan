@@ -10,7 +10,6 @@ I am _Sibi Sharanayn_. I'm working remotely as a **Full Stack Developer** for a 
 - MongoDB
 - Firestore
 
-<br/>
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -34,7 +33,6 @@ I am _Sibi Sharanayn_. I'm working remotely as a **Full Stack Developer** for a 
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
-<br/>
 
 ### 🎊 Few of my awesome projects:
 
