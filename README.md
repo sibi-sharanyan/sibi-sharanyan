@@ -19,7 +19,7 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
 <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -36,13 +36,16 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 
 
 ### 🎊 Few of my awesome projects:
-
+- ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.sibi.me/)
+- Tamil Wordle - The popular word game in the Tamil language [(link)](https://tamil-wordle.netlify.app/)
 - React app to test your typing speed [(link)](https://typingtest.netlify.app/)
 - Online IDE built with Docker to write and execute code [(link)](https://ideonline.netlify.app/)
-- Drag and Drop based web game [(link)](https://tangled.netlify.app/)
 - Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
+- Drag and Drop based web game [(link)](https://tangled.netlify.app/)
 
 ... And a lot more abandoned projects 😅😅
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sibi-sharanyan&theme=dark)](https://git.io/streak-stats)
 
 ### 📫 How to reach me?
 
