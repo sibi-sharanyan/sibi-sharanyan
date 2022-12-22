@@ -51,4 +51,3 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 
 - [LinkedIn](https://www.linkedin.com/in/sibi-sharanyan/)
 - [Twitter](https://twitter.com/sibi_sharanyan)
-- [Hashnode](https://sibi-sharanyan.hashnode.dev/)
