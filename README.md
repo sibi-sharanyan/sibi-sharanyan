@@ -51,5 +51,6 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 - [LinkedIn](https://www.linkedin.com/in/sibi-sharanyan/)
 - [Twitter](https://twitter.com/sibi_sharanyan)
 
-[![tweet-1598874958113165314-20221228152914-via-10015-io.jpg](https://i.postimg.cc/gk3MtxCj/tweet-1598874958113165314-20221228152914-via-10015-io.jpg)](https://postimg.cc/PPrzP5rn)
+[![tweet-1598874958113165314-20221228152023-via-10015-io.jpg](https://i.postimg.cc/ZnVLZmjB/tweet-1598874958113165314-20221228152023-via-10015-io.jpg)](https://postimg.cc/y33RXwMs)
+
 
