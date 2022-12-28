@@ -11,7 +11,6 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 - MongoDB
 - Firestore
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My app got featured in <a href="https://twitter.com/TimesNow?ref_src=twsrc%5Etfw">@TimesNow</a>! <br><br>Never expected a fun personal project to gain so much love. <br><br>I&#39;m humbled and grateful. <a href="https://t.co/q9d6h0aYVq">https://t.co/q9d6h0aYVq</a></p>&mdash; Sibi (@sibi_sharanyan) <a href="https://twitter.com/sibi_sharanyan/status/1598874958113165314?ref_src=twsrc%5Etfw">December 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
