@@ -23,7 +23,6 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
 <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://material-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
 <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
 </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="docker" width="40" height="40"/> </a>
