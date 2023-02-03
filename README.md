@@ -38,9 +38,7 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 - Snackalytics - Chrome extension to analyse and give metrics on order history from food delivery apps [(link)](https://snackalytics.sibi.me/)
 - Tamil Wordle - The popular word game in the Tamil language [(link)](https://tamil-wordle.netlify.app/)
 - React app to test your typing speed [(link)](https://typingtest.netlify.app/)
-- Online IDE built with Docker to write and execute code [(link)](https://ideonline.netlify.app/)
 - Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
-- Drag and Drop based web game [(link)](https://tangled.netlify.app/)
 
 ... And a lot more abandoned projects 😅😅
 
