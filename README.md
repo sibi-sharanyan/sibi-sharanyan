@@ -40,10 +40,6 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 - React app to test your typing speed [(link)](https://typingtest.netlify.app/)
 - Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
 
-... And a lot more abandoned projects 😅😅
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sibi-sharanyan&theme=dark)](https://git.io/streak-stats)
-
 ### 📫 How to reach me?
 
 - [LinkedIn](https://www.linkedin.com/in/sibi-sharanyan/)
