@@ -34,10 +34,10 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 
 
 ### 🎊 Few of my awesome projects:
-- ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.sibi.me/)
-- Snackalytics - Chrome extension to analyse and give metrics on order history from food delivery apps [(link)](https://snackalytics.sibi.me/)
-- Tamil Wordle - The popular word game in the Tamil language [(link)](https://tamil-wordle.netlify.app/)
-- React app to test your typing speed [(link)](https://typingtest.netlify.app/)
+- ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.si-bi.com/)
+- Snackalytics - Chrome extension to analyse and give metrics on order history from food delivery apps [(link)](https://snackalytics.si-bi.com/)
+- Tamil Wordle - The popular word game in the Tamil language [(link)](https://wordle.si-bi.com/)
+- React app to test your typing speed [(link)](https://type.si-bi.com/)
 - Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
 
 ### 📫 How to reach me?
