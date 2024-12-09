@@ -6,6 +6,7 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 
 - React
 - Node.js
+- Supabase
 - Vue
 - Electron
 - MongoDB
