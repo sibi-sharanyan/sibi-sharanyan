@@ -34,6 +34,7 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 
 
 ### 🎊 Few of my awesome projects:
+- GlitchReel - Bug reporting tool that integrates with your web app [(link)](https://www.glitchreel.dev/)
 - ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.si-bi.com/)
 - Snackalytics - Chrome extension to analyse and give metrics on order history from food delivery apps [(link)](https://snackalytics.si-bi.com/)
 - Tamil Wordle - The popular word game in the Tamil language [(link)](https://wordle.si-bi.com/)
