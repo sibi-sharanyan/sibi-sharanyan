@@ -42,7 +42,8 @@ I am _Sibi Sharanyan_. I'm working remotely as a **Full Stack Developer** 🚀 f
 - Tamil Tiles - Android game to help you learn Tamil [(link)](https://play.google.com/store/apps/details?id=com.sibidev.tamilwordwipe)
 - Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
 
-<img src="https://i.postimg.cc/ZnVLZmjB/tweet-1598874958113165314-20221228152023-via-10015-io.jpg" width="570" height="400" />
+<img width="570" height="400" alt="image" src="https://github.com/user-attachments/assets/e7df617b-1e35-454c-ad2d-d0322bbd5f2c" />
+
 
 
 
